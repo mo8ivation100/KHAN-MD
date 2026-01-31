@@ -226,10 +226,10 @@
 ## Credits ⚒️
 
 <p><strong>Creator:</strong><br>
-JawadTechXD (Official Creator)</p>
+HadiPlay.xyz (Official Creator)</p>
 
 <p><strong>Co-Developer:</strong><br>
-JawadYT36 ( Helper )</p>
+HadiPlay.xyz ( Helper )</p>
 
 ---
 
@@ -285,5 +285,5 @@ You are free to use, modify, and distribute it under the terms of this license.
 <h3 align="center">🙏 Thanks for using!</h3>
 <p align="center">
   If you like this project, consider giving it a ⭐ on GitHub.<br>
-  Made with ❤️ by <a href="https://github.com/JawadYT36">JawadTechX</a>
+  Made with ❤️ by <a href="https://github.com/JawadYT36">HadiPlay.xyz</a>
 </p>
