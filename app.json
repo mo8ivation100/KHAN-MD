@@ -1,7 +1,7 @@
 {
   "name": "KHAN-MD",
   "description": "Javascript WhatsApp bot made by Jᴀᴡᴀᴅ TᴇᴄʜX",
-  "logo": "https://files.catbox.moe/82v1c1.jpg",
+  "logo": "https://files.catbox.moe/qw8ym0.jpg",
   "keywords": ["HadiPlay.xyz"],
   "success_url": "/",
 
@@ -155,7 +155,7 @@
     "BOT_MEDIA_URL": {
       "description": "URL for bot media (images/videos) used in menu and other commands. Supported formats ( .jpg, .jpeg, .png, or .mp4 )",
       "required": false,
-      "value": "https://files.catbox.moe/7zfdcq.jpg"
+      "value": "https://files.catbox.moe/qw8ym0.jpg"
     },
     
     "DESCRIPTION": {
