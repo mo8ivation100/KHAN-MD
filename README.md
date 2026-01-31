@@ -44,7 +44,7 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JawadTechXD/JawadTechXD/refs/heads/main/khanmd.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
+  <img src="https://raw.githubusercontent.com/mo8ivation100/RDP0/refs/heads/main/HadiPlay.xyz.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
 </div>
 
 ***
