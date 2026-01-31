@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=HadiPlay.xyz&section=header&textBg=false&fontSize=40&animation=fadeIn&stroke=20&strokeWidth=1.2&desc=Powerd%20by%20Maaz&descSize=20&fontColor=ffffff"100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=HadiPlay.xyz&section=header&textBg=false&fontSize=40&animation=fadeIn&stroke=20&strokeWidth=1.2&desc=Powerd%20by%20Maaz&descSize=20&fontColor=ffffff 100%"/>
 <div style="
   margin-top: -60px;
   text-align: center;
